@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Resume button
     document.getElementById("view").addEventListener("click", () => {
-        window.open("my_resume.pdf", "_blank");
+        window.open("dfd.pdf", "_blank");
     });
 
 
